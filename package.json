@@ -1,0 +1,25 @@
+{
+  "name": "aes-db",
+  "version": "1.0.0",
+  "description": "testing aes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sun",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.31",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
